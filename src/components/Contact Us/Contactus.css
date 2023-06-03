@@ -1,0 +1,42 @@
+.divider {
+    color: #FFB019;
+    text-align: center;
+    padding-top: 0.3rem;;
+}
+.centeravatar{
+    display: block;
+    margin-top: 1rem;;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact-email{
+    position: block;
+    width:25rem;
+    left:30rem;
+    top:1rem;
+}
+.contact-name{
+    position: block;
+    width:25rem;
+    left:5rem;
+    top:5rem;
+}
+.contact-message{
+    position: block;
+    width:25rem;
+    right: 20rem;
+    top:9rem;
+    padding-top: 1rem;
+}
+#btn_contact{
+    position: block;
+    top:10rem;
+    left:37rem;
+    width:10rem;
+    background-color: #0C2542;
+    color:#FFB019;
+}
+
+.contact-container{
+    margin-bottom: 14em;
+}

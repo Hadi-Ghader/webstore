@@ -1,0 +1,57 @@
+.box-login{
+    position: absolute;
+    top:15%;
+    left:30%;
+    width:35rem;
+    height:20rem;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 5px #888888;
+}
+
+.emailNotExists{
+    position: absolute;
+    color:red;
+    top: 12rem;
+    left:6rem;
+}
+
+.email{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:2rem;
+
+}
+
+.password{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:4rem;
+}
+
+.signUpNow{
+    position: absolute;
+    color:#0C2542;
+    top: 14rem;
+    left:6rem;
+}
+
+#btn_login{
+    position: absolute;
+    top:16rem;
+    left:5rem;
+    width:10rem;
+    background-color: #0C2542;
+    color: #FFB019;
+}
+
+#btn_login_cancel{
+    position: absolute;
+    top:16rem;
+    left:20rem;
+    width:10rem;
+    background-color:#0C2542 ;
+    color: #FFB019;
+}

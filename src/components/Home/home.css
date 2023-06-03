@@ -1,0 +1,16 @@
+button{
+    color: #FFB019;
+}
+
+button.Mui-disabled{
+    opacity:0.5;
+}
+
+.MuiMobileStepper-dotActive{
+    background-color: #FFB019 !important;
+}
+
+div.headers{
+    padding: 0;
+    max-width: none;
+}

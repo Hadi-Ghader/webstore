@@ -1,0 +1,49 @@
+.AdminList {
+    color: #FFB019;
+}
+
+.flex-col-pos{
+    position: absolute;
+    top:4rem;
+    left:25rem;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    width:50rem;
+}
+.flex-row{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
+
+#button_send{
+    background-color: #0C2542;
+    color:#FFB019;
+}
+
+div.MuiSnackbarContent-root{
+    background-color: #0C2542;
+    color:#FFB019;
+}
+
+.popup{
+    background-color: white;
+    width:51rem;
+    position: fixed;
+    z-index: 10;
+    top:25%;
+    left:25%;
+    border-radius: 10px;
+    box-shadow: 0 0 3px 3px #888888;
+}
+
+.productHeader{
+    text-align: center;
+
+}
+.confirmButton{
+    left: 41rem;
+}

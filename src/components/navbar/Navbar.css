@@ -1,0 +1,73 @@
+.navbar{
+    background-color: #0C2542;
+}
+
+.navtabWhite{
+    color:white !important;
+}
+
+.navtabOrange{
+    color: #ffb019 !important;
+}
+
+#sign-up{
+    position: absolute;
+    top: 0.4rem;
+    right:1rem;
+    color:white;
+}
+
+#sign-up:hover{
+    background-color: #ffb019;
+}
+
+#shopping-cart-btn{
+   position: absolute;
+   z-index: 2;
+   cursor: pointer; 
+}
+
+#cart{
+    width:40rem;
+    position: relative;
+}
+
+.cart-image{
+    width: 150px;
+    height: 150px;
+}
+
+.cart-element{
+    width:34rem;
+    box-shadow: 0 0 20px 1px #837c7cb0;
+    margin-top: 1rem;
+    position: relative;
+}
+
+.product-name{
+    position: absolute;
+    top: 2rem;
+    left:11rem;
+}
+
+.product-price{
+    position: absolute;
+    top: 3.5rem;
+    left:11rem;
+}
+
+.product-quantity{
+    position: absolute;
+    top: 5rem;
+    left:11rem;
+}
+
+div.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    overflow: hidden;
+}
+
+button.checkout{
+    position: absolute;
+    left: 1rem;
+}
+

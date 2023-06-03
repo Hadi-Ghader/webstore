@@ -1,0 +1,96 @@
+.about-us-image-container {
+  position: relative;
+}
+.about-us-image {
+  width: 100%;
+  height: 40rem;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.about-us-text-box {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.about-us-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+  color: #0c2542;
+}
+
+.about-us-text {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  font-family: "Roboto", sans-serif;
+  color: #0c2542;
+}
+
+.team-member-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5px;
+}
+
+.team-member-card {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.team-member-info {
+  flex: 1;
+  margin-right: 20px;
+  font-family: "Roboto", sans-serif;
+  color: #0c2542;
+}
+
+.team-member-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+  color: #0c2542;
+}
+
+.team-member-role {
+  font-size: 16px;
+  color: #888888;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.team-member-bio {
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  color: #0c2542;
+}
+
+.team-member-image-container {
+  width: 100px;
+}
+
+.team-member-image {
+  width: 100%;
+  border-radius: 50%;
+}

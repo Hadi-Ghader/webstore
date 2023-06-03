@@ -1,0 +1,78 @@
+.box{
+    position: absolute;
+    top:15%;
+    left:30%;
+    width:35rem;
+    height:32rem;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 5px #888888;
+}
+
+.email{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:2rem;
+
+}
+
+.password{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:4rem;
+}
+
+.name{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:6rem;
+}
+
+.address{
+    position: absolute;
+    width:25rem;
+    left:5rem;
+    top:8rem;
+}
+
+.emailExists{
+    position: absolute;
+    color:red;
+    top: 23.5rem;
+    left:6rem;
+}
+.emptyField{
+    position: absolute;
+    color:red;
+    top: 22.5rem;
+    left:6rem;
+
+}
+
+.loginText{
+    position: absolute;
+    color:#0C2542;
+    top: 25rem;
+    left:6rem;
+}
+
+#btn_signup{
+    position: absolute;
+    top:28rem;
+    left:5rem;
+    width:10rem;
+    background-color: #0C2542;
+    color: #FFB019;
+}
+
+#btn_cancel{
+    position: absolute;
+    top:28rem;
+    left:20rem;
+    width:10rem;
+    background-color:#0C2542 ;
+    color: #FFB019;
+}
